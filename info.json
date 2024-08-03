@@ -1,0 +1,25 @@
+{
+"name": "LEO TRADING ACADEMY COIN",
+"type": "FKRPRO",
+"symbol": "LEO",
+"decimals": 6,
+"description": "A description of LEO TRADING ACADEMY COIN.",
+"website": "https://leotradingacademy.com/",
+"explorer": "https://bscscan.com/token/0xF3A4F65c9e89c3D7bdE60ae3Fb009FE18876283b",
+"status": "active",
+"id": "0xF3A4F65c9e89c3D7bdE60ae3Fb009FE18876283b",
+"links": [
+    {
+        "name": "telegram",
+        "url": "https://t.me/LeoTradingChampions"
+    },
+    {
+        "name": "facebook",
+        "url": "https://www.facebook.com/leo.gul.543?mibextid=LQQJ4d"
+    },
+    {
+        "name": "x",
+        "url": "https://x.com/i/flow/login?redirect_after_login=%2Ftraderleoguel"
+    }
+]
+}
